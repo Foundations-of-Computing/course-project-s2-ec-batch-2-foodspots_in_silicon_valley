@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #fff700;
+    }
+    header {
+    background: #fff705;
+    color: #000000;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+    }
+    header h1 {
+    margin: 0;
+    }
+    
+    .food-spot {
+    background: #0000002e;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(108, 104, 19, 0.86);
+    }
+    
+    .food-spot h2 {
+    color: #cfbe6a;
+    }
+    .food-spot img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    }
+    .food-spot ul {
+    list-style-type: none;
+    
+    padding: 0;
+    }
+    .food-spot ul li {
+    background: rgb(38 35 19 / 54%);
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    }
+    footer {
+    text-align: center;
+    padding: 10px;
+    background: #fff700;
+    color: #000000;
+    margin-top: 20px;
+    }
